@@ -52,3 +52,7 @@ Our goal is to create a smart, reactive calendar application that helps users or
 - Added a budget feature to track money  
 
 
+#Minutes-10/22/25-G1 (Shariff, Cam, and Griffin are Present)
+- Discussed the installation of how to install Node.js 
+-Discussed the importance of the PBI chart and how Node.js plays a role in that process 
+-Next meeting will be on Friday, October 25th, with the goal being that everything should be installed so that we can start the project by Friday  
