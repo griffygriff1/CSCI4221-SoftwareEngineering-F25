@@ -52,7 +52,31 @@ Our goal is to create a smart, reactive calendar application that helps users or
 - Added a budget feature to track money  
 
 
-#Minutes-10/22/25-G1 (Shariff, Cam, and Griffin are Present)
-- Discussed the installation of how to install Node.js 
--Discussed the importance of the PBI chart and how Node.js plays a role in that process 
--Next meeting will be on Friday, October 25th, with the goal being that everything should be installed so that we can start the project by Friday  
+# Group 1 Meeting Minutes  
+**Date:** October 22, 2025  
+**Members Present:** Shariff, Cam, Griffin  
+
+---
+
+## Discussion Summary
+
+- **Topic 1:** Installation of **Node.js**  
+  - Reviewed the process of how to install Node.js on each member’s system.  
+  - Ensured everyone understood setup requirements for project compatibility.  
+
+- **Topic 2:** Importance of the **PBI Chart**  
+  - Discussed how the PBI chart connects to Node.js in our workflow.  
+  - Identified tasks to track installation progress and dependencies.  
+
+---
+
+##  Next Meeting
+
+- **Date:** Friday, October 25, 2025  
+- **Goal:**  
+  Ensure all installations are complete so the team can **begin project development** by Friday.
+
+---
+
+**Prepared by:** Griffin  
+**Team:** Group 1
