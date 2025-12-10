@@ -1,50 +1,126 @@
-# Welcome to your Expo app 👋
+# Project 3 – React Native Expo App (Calendar Conflict Detection)
+**Author:** Griffin Sanders  
+**Course:** CSCI 4221 – Software Engineering   
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This section documents all work completed for **Project 3**, 
 
-## Get started
+#  Project 3 Summary
+For Project 3, I implemented the **Calendar Event Conflict Detection feature**, which was assigned to me in Project 2.  
+The goal of this feature is to display scheduled events and highlight overlapping tasks visually inside a React Native Expo application.
 
-1. Install dependencies
+This project includes:
 
-   ```bash
-   npm install
-   ```
+- A working **React Native Expo app** created using `npx create-expo-app`  
+- A functional **Home Screen**  
+- A functional **Calendar Screen**  
+- Event conflict detection (overlapping events shown with a warning color)  
+- Two clickable interactions on the home screen  
+- Updated PBIs for Project 3  
+- A new meeting minutes document  
+- Full folder structure generated automatically by Expo  
+- Everything pushed to GitHub as required  
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+#  Project 3 Meeting Minutes (Required File)
 
-In the output, you'll find options to open the app in a
+**Date:** February 9, 2025  
+**Members Present:** Griffin, Shariff, Cam  
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+### **Topics Discussed**
+1. **Progress Reports**
+   - Griffin: Calendar conflict detection feature being implemented in React Native Expo.
+   - Shariff: Working on notification center planning.
+   - Cam: Reviewing UI layout options for faculty scheduling feature.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+2. **Issues**
+   - Expo Go was not loading the project due to dependency mismatch.
+   - QR code initially loaded the Expo welcome page instead of the app.
+   - Solution: Updated Expo CLI + restarted server + rebuilt folder structure.
 
-## Get a fresh project
+3. **Repository / PBI Updates**
+   - Added Project 3 PBI items (Calendar Conflict Detection).
+   - Verified correct Expo folder structure exists in repository.
+   - Confirmed each member’s tasks for Project 3.
 
-When you're ready, run:
+### **Next Meeting**
+**Date:** October 27th, 2025  
+**Goal:** Validate that all Project 3 features run inside Expo Go on iOS/Android.
 
-```bash
-npm run reset-project
-```
+**Minutes Prepared By:** Griffin Sanders  
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+# PBI Item Completed for Project 3 (Required File)
 
-To learn more about developing your project with Expo, look at the following resources:
+## **PBI Title: Calendar Interface With Event Conflict Detection (React Native Expo)**
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+### **Description**
+Create the UI and logic for displaying calendar events and identifying overlapping tasks.  
+This includes:
+- A working Home Screen
+- A “Show Tasks” button
+- A Calendar display screen
+- Events visually rendered
+- Overlapping events highlighted or labeled as conflicts
 
-## Join the community
+### **Why This PBI?**
+This directly extends PBI #4 from Project 2:  
+> “Prototype a Calendar System with Event Conflict Detection, showing how overlapping tasks are identified and flagged for rescheduling.”
 
-Join our community of developers creating universal apps.
+### **Acceptance Criteria**
+- App runs in Expo Go on iPhone/Android  
+- At least **two interactive clicks** work on the home screen  
+- Calendar displays events  
+- Overlapping events receive a conflict warning  
+- All code generated using AI  
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+### **Sprint Estimate**
+3 weeks – 72 hours – 2 junior dev equivalents
+
+### **Assigned To**
+**Griffin Sanders**
+
+### **Reviewer**
+**Sharif Muhammad**
+
+---
+
+# 🔄 Updated PBI Table (Project 3 Requirement)
+
+| PBI # | Item | Status | Sprint | Estimate | Assigned | Reviewer |
+|------|------|--------|--------|----------|----------|----------|
+| 1 | Research user behavior of professionals | Completed | 2 weeks | 40 hrs | Sharif | Cameron |
+| 2 | Analyze time-management needs of students | Completed | 2 weeks | 40 hrs | Cameron | Griffin |
+| 3 | Insights on family event/budget planning | Completed | 2 weeks | 40 hrs | Griffin | Sharif |
+| 4 | **Calendar System With Conflict Detection (React Native implementation)** | **Completed – Project 3** | 3 weeks | 72 hrs | **Griffin** | Sharif | Cam |
+| 5 | Notification Center prototype | Ready for refinement | 3 weeks | 64 hrs | Sharif | Cameron |
+| 6 | User Engagement Dashboard prototype | Ready for refinement | 3 weeks | 72 hrs | Griffin | Sharif |
+| 7 | Teacher lesson/meeting scheduling | Ready for implementation | 4 weeks | 96 hrs | Cameron | QA Lead |
+| 8 | Student budget linking | Ready for implementation | 4 weeks | 56 hrs | Sharif | UX Lead |
+| 9 | Working parent reminders | Ready for implementation | 4 weeks | 96 hrs | Griffin | Product Manager |
+
+---
+
+# 📱 App Demonstration Summary (Professor Wants to See This)
+
+### **Home Screen**
+- Displays welcome information  
+- Contains at least **two clickable buttons**  
+  - **Show Tasks** → opens calendar  
+  - **View Conflicts** → highlights overlapping tasks  
+
+### **Calendar Screen**
+- Shows sample events (hard-coded for prototype)
+- Overlapping events turn **red** or show a **"Conflict" label**
+- Events are rendered using JavaScript Date objects and simple overlap logic  
+
+### **Runs Fully in Expo Go**
+- Verified running on physical phone  
+- QR code scans correctly  
+- No missing dependencies  
+
+
+
+
+
