@@ -168,7 +168,6 @@ This directly extends PBI #4 from Project 2:
 
 ---
 
-# 🔄 Updated PBI Table (Project 3 Requirement)
 
 | PBI # | Item | Status | Sprint | Estimate | Assigned | Reviewer |
 |------|------|--------|--------|----------|----------|----------|
