@@ -184,7 +184,6 @@ This directly extends PBI #4 from Project 2:
 
 ---
 
-# 📱 App Demonstration Summary (Professor Wants to See This)
 
 ### **Home Screen**
 - Displays welcome information  
